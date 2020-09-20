@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHBSudp/k1PIpv2jkrvnqdWr/Dw2EIstWskvurMHUxogkJqTFxqThURbenOwo8E+DZe79o80tCvOOXy38AWMbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roberte\\source\\repos\\AsyncTokenBucket\\AsyncTokenBucketSln\\Banda.AsyncTokenBucket\\Banda.AsyncTokenBucket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roberte\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex\\5.0.0\\nito.asyncex.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex.context\\5.0.0\\nito.asyncex.context.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex.coordination\\5.0.0\\nito.asyncex.coordination.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.0.0\\nito.asyncex.interop.waithandles.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex.oop\\5.0.0\\nito.asyncex.oop.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.asyncex.tasks\\5.0.0\\nito.asyncex.tasks.5.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.cancellation\\1.0.5\\nito.cancellation.1.0.5.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.collections.deque\\1.0.4\\nito.collections.deque.1.0.4.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\nito.disposables\\2.0.0\\nito.disposables.2.0.0.nupkg.sha512",
+    "C:\\Users\\roberte\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
