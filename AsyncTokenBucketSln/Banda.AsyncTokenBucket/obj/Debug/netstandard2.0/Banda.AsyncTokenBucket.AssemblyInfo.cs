@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Banda.AsyncTokenBucket")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Robert Ellis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Apache 2.0 License")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Simplified async re-implementtion of https://github.com/esendex/TokenBucket")]

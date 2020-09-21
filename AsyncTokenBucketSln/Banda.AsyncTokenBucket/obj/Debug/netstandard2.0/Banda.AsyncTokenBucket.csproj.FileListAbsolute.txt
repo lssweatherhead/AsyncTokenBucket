@@ -15,3 +15,4 @@ C:\Users\roberte\source\repos\AsyncTokenBucket\AsyncTokenBucketSln\Banda.AsyncTo
 C:\Users\roberte\source\repos\AsyncTokenBucket\AsyncTokenBucketSln\Banda.AsyncTokenBucket\obj\Debug\netstandard2.0\Banda.AsyncTokenBucket.csproj.CoreCompileInputs.cache
 C:\Users\roberte\source\repos\AsyncTokenBucket\AsyncTokenBucketSln\Banda.AsyncTokenBucket\obj\Debug\netstandard2.0\Banda.AsyncTokenBucket.dll
 C:\Users\roberte\source\repos\AsyncTokenBucket\AsyncTokenBucketSln\Banda.AsyncTokenBucket\obj\Debug\netstandard2.0\Banda.AsyncTokenBucket.pdb
+C:\Users\roberte\source\repos\AsyncTokenBucket\AsyncTokenBucketSln\Banda.AsyncTokenBucket\obj\Debug\netstandard2.0\Banda.AsyncTokenBucket.csprojAssemblyReference.cache

@@ -4,6 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>Simplified async re-implementtion of https://github.com/esendex/TokenBucket</Description>
     <Copyright>Apache 2.0 License</Copyright>
+    <Authors>Robert Ellis</Authors>
+    <Company />
+    <PackageTags>Token Bucket TokenBucket Async Throttle Throttling</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
