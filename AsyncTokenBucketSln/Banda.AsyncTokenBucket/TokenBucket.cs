@@ -96,8 +96,10 @@ namespace Banda.AsyncTokenBucket
                 if (ticksElapsed.Duration() > MaximumDelay.Duration())
                     throw new InvalidOperationException("Delay exceeded maximum delay");
 
-                if (cancellationToken.HasValue && cancellationToken.Value.IsCancellationRequested)
-                    throw new TaskCanceledException();
+                if (cancellationToken.HasValue)
+                {
+                    cancellationToken.Value.ThrowIfCancellationRequested();
+                }
             }
         }
 

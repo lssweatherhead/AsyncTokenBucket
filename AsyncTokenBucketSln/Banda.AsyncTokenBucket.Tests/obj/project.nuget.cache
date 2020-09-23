@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PsoVQqpv8pzFqI8bpqmmGUmltq0XsvwxicUMZIlqd6z5IRolFU/e+g09WCCQ3SLA4oXell9VksLzI/LMQ9caoQ==",
+  "dgSpecHash": "rFljM3/cNYZTaBAusicM+d+Ycn1+Ulc4daaqdJNXbVx/KoAc4hL8dpCcYi7UH2AUU3rCCcuGeu4J02gu1fMJLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\roberte\\source\\repos\\AsyncTokenBucket\\AsyncTokenBucketSln\\Banda.AsyncTokenBucket.Tests\\Banda.AsyncTokenBucket.Tests.csproj",
   "expectedPackageFiles": [

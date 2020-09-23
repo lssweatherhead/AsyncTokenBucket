@@ -8,6 +8,8 @@
     <Description>Simplified async re-implementtion of https://github.com/esendex/TokenBucket</Description>
 
     <Copyright>Apache 2.0 License</Copyright>
+
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

@@ -7,6 +7,8 @@
     <Authors>Robert Ellis</Authors>
     <Company />
     <PackageTags>Token Bucket TokenBucket Async Throttle Throttling</PackageTags>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
