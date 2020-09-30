@@ -7,7 +7,9 @@ namespace Banda.AsyncTokenBucket
     {
         private static readonly Ticker _ticker = Ticker.Default();
 
+#pragma warning disable CS1998 // Async method lacks 'await' operators and will run synchronously
         public static async Task<ITokenBucket> BucketWithFixedIntervalRefillStrategy
+#pragma warning restore CS1998 // Async method lacks 'await' operators and will run synchronously
             (long capacity, long refillTokens, TimeSpan period)
         {
             if (capacity <= 0)
@@ -26,7 +28,9 @@ namespace Banda.AsyncTokenBucket
             return new TokenBucket(capacity, strategy);
         }
 
+#pragma warning disable CS1998 // Async method lacks 'await' operators and will run synchronously
         public static async Task<ITokenBucket> BucketWithRefillStrategy
+#pragma warning restore CS1998 // Async method lacks 'await' operators and will run synchronously
             (long capacity, IRefillStrategy refillStrategy)
         {
             if (capacity <= 0)
